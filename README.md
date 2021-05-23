@@ -1,24 +1,66 @@
-<h1>Salut ! 👋</h1>
-🎈 Je m'appelle Iyed je suis passionnée par l'informatique 💻.
+## Bienvenue sur mon GitHub 👋
 
-<h3>Voici mes compétences : 💻</h3> 
+### 💻 &nbsp;À propos de moi
 
-💻 : ![GitHub Logo](https://camo.githubusercontent.com/c2991c3d6d6a9a5f360839ea71e6c5eef2589216b7ceccad11c475cf7f3d20ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35)
-![GitHub Logo](https://camo.githubusercontent.com/4900197255fc7694057b54de58b053f04888bc3d8a264cb1ae16fe4e79160f11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
-![GitHub Logo](https://camo.githubusercontent.com/9aeca38fdfa4abfa57cf610be1f6c52800f30016ea195adea93e48becace035b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d353633443743)
-![GitHub Logo](https://camo.githubusercontent.com/8a0d3f0b872a6565c7861eb325dcb77631b791cb3b5ea0b3570f56ee5858de2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e)
-![GitHub Logo](https://camo.githubusercontent.com/b7cead6b1edf3f0c4ff7338cd933de51a5059fe03e302fbc70daaf7ac5ad4b4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5368656c6c2d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d676e752d62617368)
+- 🎓 &nbsp; Étudiant en informatique à l'IUT du Havre
+- ❤️ &nbsp; Passionné de programmation web et de nouvelles technologies.
 
-🔧  ![GitHub Logo](https://camo.githubusercontent.com/2478030ce7d24f0f315491849f1149e7004d66c298e370496820e6c9e5eb0776/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343)
-![GitHub Logo](https://camo.githubusercontent.com/5c1c8b131644ead0389ff4c9547109a04647d97f6d0f938781d25f24522e4f89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d303037414343)
+### 🛠 &nbsp;Connaissances techniques
 
-⚙️ : ![GitHub Logo](https://camo.githubusercontent.com/1b2a7f63974cbdae924ca7572d05a5417a65294bb419265b61e0fdc03f44527d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d676974)
-![GitHub Logo](https://camo.githubusercontent.com/4aaa5da5c0610374aa0989c238983d718914df0833af4b2ee42687c692a09ecd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
-![GitHub Logo](https://camo.githubusercontent.com/72a59b048efb73451950e21fc80d19f1e4c405c4de4e0b53d42013dbe24a2b30/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d58616d70702d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d78616d7070266c6f676f436f6c6f723d303037414343)
-![Github Logo](https://camo.githubusercontent.com/02d7359e490468a46872c99a38582bc0711bda59c3e91c8cefb4c0168447d02d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d456c656374726f6e4a532d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d656c656374726f6e)
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333??style=flat-square&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
+  ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat-square&logo=laravel)
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat-square&logo=wordpress)
+- 🖥️ &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
+- 📱 &nbsp;&nbsp;&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat-square&logo=react)
+- 🛢 &nbsp;&nbsp;&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+- 👨‍💻 &nbsp;
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
+  ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat-square&logo=macos)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
+  ![XAMPP](https://img.shields.io/badge/-Xampp-333333?style=flat-square&logo=xampp&logoColor=007ACC)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=007ACC)
+  ![IntelleiJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat-square&logo=intellij-idea&logoColor=007ACC)
 
-🛢 : ![GitHub Logo](https://camo.githubusercontent.com/2b6472b3569c2f09bfd9a0cda108e24d115275cefa18942995251350f68a7d8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c)
+## Statistiques
 
-Statistique 📊 :
+[![Repos Badge](https://badges.pufler.dev/repos/quentinsvn)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/quentinsvn)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/quentinsvn/quentinsvn)](https://badges.pufler.dev)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=tokyonight&count_private=true)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quentinsvn&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quentinsvn&theme=radical&layout=compact&exclude_lang=java+r" />
+</p>
+
+##  🤝🏻 &nbsp;Contact
+
+<p align="center">
+<a href="https://quentinsavean.fr"><img src="https://img.shields.io/badge/-quentinsavean.fr-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/-Quentin%231234-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+<a href="https://www.linkedin.com/in/quentin-savean"><img src="https://img.shields.io/badge/-Quentin%20Savéan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:quentin.savean@protonmail.com"><img src="https://img.shields.io/badge/-quentin.savean@protonmail.com-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
+  
+  
