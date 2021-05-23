@@ -46,19 +46,19 @@
 
 ## Statistiques
 
-[![Repos Badge](https://badges.pufler.dev/repos/quentinsvn)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/quentinsvn)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/quentinsvn/quentinsvn)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/iyed-dev)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/iyed-dev)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/iyed-dev/iyed-dev)](https://badges.pufler.dev)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quentinsvn&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quentinsvn&theme=radical&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyed-dev&theme=radical&layout=compact&exclude_lang=java+r" />
 </p>
 
 ##  🤝🏻 &nbsp;Contact
 
 <p align="center">
-<a href="https://quentinsavean.fr"><img src="https://img.shields.io/badge/-quentinsavean.fr-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://polo83.xyz"><img src="https://img.shields.io/badge/-polo83.xyz-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Polo 83%231234-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 <a href="mailto:amriiyed410@gmail.com"><img src="https://img.shields.io/badge/-amriiyed410@gmail.com-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
   
