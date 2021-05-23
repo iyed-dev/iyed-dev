@@ -1,5 +1,13 @@
-
-</p>
+## Bienvenue sur mon GitHub 👋
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
+  ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
+- 🖥️ &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
 
 ##  🤝🏻 &nbsp;Contact
 
