@@ -33,10 +33,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=007ACC)
 
 ## Statistiques
-
-[![Repos Badge](https://badges.pufler.dev/repos/iyed-dev)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/iyed-dev)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/iyed-dev/iyed-dev)](https://badges.pufler.dev)
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh)
 
 <p>
