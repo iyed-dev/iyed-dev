@@ -1,2 +1,1 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=tokyonight&count_private=true)
-https://camo.githubusercontent.com/c2991c3d6d6a9a5f360839ea71e6c5eef2589216b7ceccad11c475cf7f3d20ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666c61742d737175617265266c6f676f3d48544d4c35
