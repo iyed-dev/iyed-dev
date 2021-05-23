@@ -32,9 +32,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat-square&logo=eclipse&logoColor=007ACC)
 
-## Statistiques
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh)
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyed-dev&theme=radical&layout=compact&exclude_lang=java+r" />
