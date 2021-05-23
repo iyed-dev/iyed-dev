@@ -37,6 +37,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/iyed-dev)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/iyed-dev)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/iyed-dev/iyed-dev)](https://badges.pufler.dev)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=radical" />
