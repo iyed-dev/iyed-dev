@@ -1,4 +1,4 @@
-<center><h1>Salut ! 👋</h1></center>
+<h1>Salut ! 👋</h1>
 🎈 Je m'appelle Iyed je suis passionnée par l'informatique 💻.
 
 <h3>Voici mes compétences : 💻</h3> 
