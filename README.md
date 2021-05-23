@@ -1,4 +1,3 @@
-Français 🎈 :
 Salut ! 👋
 Je m'appelle Iyed je suis passionnée par l'informatique 💻.
 
