@@ -17,7 +17,7 @@
 <a href="mailto:amriiyed410@gmail.com"><img src="https://img.shields.io/badge/-amriiyed410@gmail.com-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
   
   
-## 🌐nbsp;Statistiques
+## 🌐 &nbsp;Statistiques
 
 
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tchoow&theme=tokyonigh)
