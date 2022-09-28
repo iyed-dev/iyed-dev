@@ -6,7 +6,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
   ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
 - 🖥️ &nbsp;
-  ![Java](https://img.shields.io/badge/-javascript-333333?style=flat-square&logo=javascript)
+  ![Java](https://img.shields.io/badge/-javascript-333333?style=flat-square&logo=JS)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
 
