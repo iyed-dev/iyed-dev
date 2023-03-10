@@ -20,9 +20,10 @@ Je me présente rapidement, je m'appelle Iyed 🎥, j'ai actuellement 16 ans �
 ##  🤝🏻 &nbsp;Contact
 
 <p align="center">
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=grey"/></a>
+<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=blue"/></a>
 <a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=orange"/></a>
 <a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=youtube&logoColor=red"/></a>
+<a href="https://discord.gg/4SNtQgjT8W"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=discord&logoColor=violet"/></a>
 
   
   
