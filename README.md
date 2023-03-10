@@ -9,7 +9,8 @@
 - 🖥️ &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=dart)
+  ![Dart](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=dart)
+  ![Dart](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=blueprint)
 
 ##  🤝🏻 &nbsp;Contact
 
