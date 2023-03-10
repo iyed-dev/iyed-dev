@@ -12,7 +12,7 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
   ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
  - 🎨 &nbsp;
- ![SonyVegas](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=vegaspro)
+ ![SonyVegas](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=photoshop)
 
 ##  🤝🏻 &nbsp;Contact
 
