@@ -1,5 +1,5 @@
 ## Bienvenue sur mon GitHub 👋
-Je me présente rapidement, je m'appelle Iyed, j'ai actuellement 16 ans et je suis passionné par les nouvelles technologies.
+Je me présente rapidement, je m'appelle Iyed 🎥, j'ai actuellement 16 ans 👦 et je suis passionné par les nouvelles technologies 💻
 ## Voici mes compétences 🚀 :
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
