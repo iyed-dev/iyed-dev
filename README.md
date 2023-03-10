@@ -13,7 +13,7 @@
 ##  🤝🏻 &nbsp;Contact
 
 <p align="center">
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Adresse Mail De Iyed Amri-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-E-Mail De Iyed Amri-9497CE?style=flat-square&logo=protonmail&logoColor=white"/></a>
   
   
 ## 🌐 &nbsp;Statistiques
