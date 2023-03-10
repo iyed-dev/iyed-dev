@@ -12,9 +12,9 @@
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
   ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
  - 🎨 &nbsp;
- ![Adobe PP](https://img.shields.io/badge/-AdobePremièrePro-333333?style=flat-square&logo=adobepremierepro)
- ![Adobe PS](https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop)
- ![Adobe AE](https://img.shields.io/badge/-AdobeAfterEffects-333333?style=flat-square&logo=adobeaftereffects)
+ ![Adobe PP](https://img.shields.io/badge/-PP-333333?style=flat-square&logo=adobepremierepro)
+ ![Adobe PS](https://img.shields.io/badge/-PS-333333?style=flat-square&logo=adobephotoshop)
+ ![Adobe AE](https://img.shields.io/badge/-AE-333333?style=flat-square&logo=adobeaftereffects)
 
 ##  🤝🏻 &nbsp;Contact
 
