@@ -11,6 +11,8 @@
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
   ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
+ - 🎨 &nbsp;
+ ![SonyVegas](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=vegas)
 
 ##  🤝🏻 &nbsp;Contact
 
