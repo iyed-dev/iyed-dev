@@ -29,7 +29,7 @@ Je me présente rapidement, je m'appelle Iyed 🎥, j'ai actuellement 16 ans �
   
 ## 🌐 &nbsp;Statistiques
 
-
+<center>
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh)
 
 
@@ -45,6 +45,7 @@ Je me présente rapidement, je m'appelle Iyed 🎥, j'ai actuellement 16 ans �
 </p>
 <p align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&theme=tokyonigh" />
+</centre>
 </p>
 -->
 
