@@ -35,10 +35,8 @@ Je me présente rapidement, je m'appelle Iyed 🎥, j'ai actuellement 16 ans �
 
 <!--
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iyed-dev&theme=dark&layout=compact&exclude_lang=java+r&hide_border=true&count_private=true"/>
-
-<center> 
+ 
 ![image drone gif](https://images.squarespace-cdn.com/content/v1/57a699cbe6f2e1f140d7a6f0/1487999817483-WVKKRXBXMOTHY2668FMY/ke17ZwdGBToddI8pDm48kFZ_DkQepisrGlWprJgXVKhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpypMQKA_akJd-8wDjR6vPSRtsJehSp9GTdlOV-w-2udr0O8I16LV2TDWx5yo_ad-_0/Drone-racing-tron-small.gif)
-</center>
 
 <!--
 <p align=center>
