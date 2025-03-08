@@ -1,5 +1,5 @@
 ## Bienvenue sur mon GitHub 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Iyed+Amri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Iyed+Amri+%3C3)](https://git.io/typing-svg)
 ## Voici mes compétences 🚀 :
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
