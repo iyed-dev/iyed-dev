@@ -48,7 +48,4 @@
 -->
 
 ##  👀 &nbsp;Visiteurs
-<br>
-<p align="center">
   <img src="https://profile-counter.glitch.me/iyed-dev/count.svg" />
-</p>
