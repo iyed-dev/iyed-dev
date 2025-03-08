@@ -20,9 +20,9 @@
 ##  🤝🏻 &nbsp;Contact
 
 
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=Red"/></a>
-<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=Orange"/></a>
-<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=youtube&logoColor=Red"/></a>
+<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
+<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-9497CE?style=flat-square&logo=instagram&logoColor=White"/></a>
+<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-9497CE?style=flat-square&logo=youtube&logoColor=White"/></a>
 <a href="https://www.tiktok.com/@_nikonax"><img src="https://img.shields.io/badge/-TikTok-9497CE?style=flat-square&logo=tiktok&logoColor=White"/></a>
 
   
