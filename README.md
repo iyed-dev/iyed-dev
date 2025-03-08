@@ -17,7 +17,7 @@
  ![Adobe PS](https://img.shields.io/badge/-Ps-333333?style=flat-square&logo=adobephotoshop)
  ![Adobe AE](https://img.shields.io/badge/-Ae-333333?style=flat-square&logo=adobeaftereffects)
 
-##  🤝🏻 &nbsp;Réseaux Sociaux | Contact
+##  🤝🏻 &nbsp;Réseaux Sociaux & Contact
 
 
 <a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-9497CE?style=flat-square&logo=gmail&logoColor=White"/></a>
