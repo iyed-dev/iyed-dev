@@ -34,7 +34,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&layout=compact&theme=tokyonight)
 
 ## 🔥 Projets en Cours
-- 🎮 **Artemed: L’Écho Noir** (Jeu de survie narratif, sortie prévue en décembre 2025)
+- 🎮 **Artemed L’Écho Noir** (Jeu de survie narratif, sortie prévue en décembre 2025)
 - 🖥️ **Amris Web** Création de solutions digitales sur mesure pour donner vie à vos projets en ligne.
 
 ## 👀 &nbsp;Visiteurs
