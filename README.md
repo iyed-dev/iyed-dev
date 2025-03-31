@@ -35,8 +35,7 @@
 
 ## 🔥 Projets en Cours
 - 🎮 **Artemed: L’Écho Noir** (Jeu de survie narratif, sortie prévue en décembre 2025)
-- 🖥️ **Site Web Minimaliste** (Plateforme de partage vidéo avec Framer)
-- 🚀 **Expérimentations IA & Génération de contenu**
+- 🖥️ **Amris Web** Création de solutions digitales sur mesure pour donner vie à vos projets en ligne.
 
 ## 👀 &nbsp;Visiteurs
 <img src="https://profile-counter.glitch.me/iyed-dev/count.svg" />
