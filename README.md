@@ -22,10 +22,11 @@
 
 ## 🤝🏻 &nbsp;Réseaux Sociaux & Contact
 
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-0077B5?style=flat-square&logo=gmail&logoColor=White"/></a>
-<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=White"/></a>
-<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=White"/></a>
-<a href="https://www.tiktok.com/@_nikonax"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=White"/></a>
+<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-333333?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-333333?style=flat-square&logo=youtube&logoColor=FFFFFF"/></a>
+<a href="https://www.tiktok.com/@_nikonax"><img src="https://img.shields.io/badge/-TikTok-333333?style=flat-square&logo=tiktok&logoColor=FFFFFF"/></a>
+
 
 
 ## 🐈‍⬛ &nbsp;Statistiques GitHub
