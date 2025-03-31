@@ -12,7 +12,6 @@
 - 🖥️ &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat-square&logo=dart)
   ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c%2B%2B)
 - 🎨 &nbsp;
