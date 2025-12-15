@@ -37,6 +37,3 @@
 ## 🔥 Projets en Cours
 - 🎮 **Artemed** (Jeu de survie narratif, sortie prévue en décembre 2026)
 - 🖥️ **Amris Web** Création de solutions web sur mesure pour donner vie à vos projets en ligne.
-
-## 👀 &nbsp;Visiteurs
-<img src="https://profile-counter.glitch.me/iyed-dev/count.svg" />
