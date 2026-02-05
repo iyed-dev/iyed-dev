@@ -26,14 +26,6 @@
 <a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-333333?style=flat-square&logo=youtube&logoColor=FFFFFF"/></a>
 <a href="https://www.tiktok.com/@_nikonax"><img src="https://img.shields.io/badge/-TikTok-333333?style=flat-square&logo=tiktok&logoColor=FFFFFF"/></a>
 
-
-
-## 🐈‍⬛ &nbsp;Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyed-dev&show_icons=true&theme=tokyonight)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyed-dev&layout=compact&theme=tokyonight)
-
 ## 🔥 Projets en Cours
 - 🎮 **Artemed** (Jeu de survie narratif, sortie prévue en décembre 2026)
 - 🖥️ **Amris Web** Création de solutions web sur mesure pour donner vie à vos projets en ligne.
