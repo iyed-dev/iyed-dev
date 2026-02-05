@@ -1,31 +1,46 @@
-## Bienvenue sur mon GitHub 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Iyed+Amri+%3C3)](https://git.io/typing-svg)
+<div align="center">
 
-## Voici mes compétences 🚀 :
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
-  ![ElectronJS](https://img.shields.io/badge/-ElectronJS-333333?style=flat-square&logo=electron)
-  ![JavaScript](https://img.shields.io/badge/-JS-333333?style=flat-square&logo=javascript)
-  ![Framer](https://img.shields.io/badge/-Framer-333333?style=flat-square&logo=framer)
-- 🖥️ &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat-square&logo=gnu-bash)
-  ![Blueprint](https://img.shields.io/badge/-Blueprint-333333?style=flat-square&logo=blueprint)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c%2B%2B)
-- 🎨 &nbsp;
-  ![Adobe PP](https://img.shields.io/badge/-Pr-333333?style=flat-square&logo=adobepremierepro)
-  ![Adobe PS](https://img.shields.io/badge/-Ps-333333?style=flat-square&logo=adobephotoshop)
-  ![Adobe AE](https://img.shields.io/badge/-Ae-333333?style=flat-square&logo=adobeaftereffects)
+# Iyed Amri
 
-## 🤝🏻 &nbsp;Réseaux Sociaux & Contact
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=Creative+Developer;Building+clean+digital+experiences;Minimalism+%E2%9C%95+Performance" />
 
-<a href="mailto:amriiyed410@icloud.com"><img src="https://img.shields.io/badge/-Mail-333333?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/iyed.dev/"><img src="https://img.shields.io/badge/-Instagram-333333?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://www.youtube.com/@iyed-dev"><img src="https://img.shields.io/badge/-YouTube-333333?style=flat-square&logo=youtube&logoColor=FFFFFF"/></a>
-<a href="https://www.tiktok.com/@_nikonax"><img src="https://img.shields.io/badge/-TikTok-333333?style=flat-square&logo=tiktok&logoColor=FFFFFF"/></a>
+<br/>
 
-## 🔥 Projets en Cours
-- 🎮 **Artemed** (Jeu de survie narratif, sortie prévue en décembre 2026)
-- 🖥️ **Amris Web** Création de solutions web sur mesure pour donner vie à vos projets en ligne.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iyed-dev&label=Profile+Views&color=111111&style=flat" />
+</p>
+
+</div>
+
+---
+
+## About
+
+Frontend focused.
+Performance obsessed.
+Design driven.
+I build digital products with precision, clarity and intention.
+No noise. Just clean execution.
+
+Stack
+<div align="center">
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,electron,react" />
+Backend & Tools
+<img src="https://skillicons.dev/icons?i=python,bash,cpp,git" />
+Creative
+<img src="https://skillicons.dev/icons?i=ps,pr,ae,figma" /> </div>
+Current Focus
+🎮 Artemed — Narrative survival experience (2026)
+
+🌐 Amris Web — Custom web solutions
+
+⚡ High-performance UI systems
+
+🧠 Advanced JavaScript architecture
+
+Connect
+<div align="center"> <a href="mailto:yourmail@email.com"> <img src="https://img.shields.io/badge/Mail-111111?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/iyed.dev/"> <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://www.youtube.com/@iyed-dev"> <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="https://www.tiktok.com/@_nikonax"> <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=white"/> </a> </div>
+<div align="center">
+Less but better.
+</div>
