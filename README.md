@@ -23,13 +23,10 @@ I build digital products with precision, clarity and intention.
 No noise. Just clean execution.
 
 <div align="center">
-Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,electron,react" />
 <br />
-Backend & Tools
-<img src="https://skillicons.dev/icons?i=python,bash,cpp,git" />
+<img src="https://skillicons.dev/icons?i=python,bash,git" />
 <br />
-Creative
 <img src="https://skillicons.dev/icons?i=ps,pr,ae,figma" /> </div>
 <br />
 Current Focus
