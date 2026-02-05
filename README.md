@@ -30,10 +30,8 @@ No noise. Just clean execution.
 Current Focus
 🎮 Artemed — Narrative survival experience (2026)
 
-🌐 Amris Web — Custom web solutions
-
+🌐 AMRIS WEB — Custom web solutions
 ⚡ High-performance UI systems
-
 🧠 Advanced JavaScript architecture
 
 Connect
